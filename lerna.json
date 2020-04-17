@@ -6,8 +6,7 @@
   "command": {
     "publish": {
       "message": "chore(release): publish %v",
-      "preid": "beta",
-      "registry": "https://artifactory.rewe-digital.com/artifactory/api/npm/npm"
+      "preid": "beta"
     }
   }
 }
