@@ -1,13 +1,13 @@
 {
-  "name": "reaptcha",
+  "name": "reaptcha-enterprise",
   "version": "1.7.2",
-  "description": "Google reCAPTCHA for React",
+  "description": "Google reCAPTCHA for React with Enterprise support",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sarneeh/reaptcha"
+    "url": "https://stash.rewe-digital.com/scm/~bishal.pantha_rewe-digital.com/reaptcha-enterprise.git"
   },
   "license": "MIT",
-  "author": "Jakub Sarnowski <sarneeh@gmail.com>",
+  "author": "Bishal Pantha <bishal.pantha@rewe-digital.com>",
   "files": [
     "dist",
     "index.d.ts"
