@@ -7921,6 +7921,11 @@ readdirp@^2.0.0:
     readable-stream "^2.0.2"
     set-immediate-shim "^1.0.1"
 
+reaptcha@^1.7.2:
+  version "1.7.2"
+  resolved "https://artifactory.rewe-digital.com/artifactory/api/npm/npm/reaptcha/-/reaptcha-1.7.2.tgz#d829f54270c241f46501e92a5a7badeb1fcf372d"
+  integrity sha1-2Cn1QnDCQfRlAekqWnut6x/PNy0=
+
 rechoir@^0.6.2:
   version "0.6.2"
   resolved "https://registry.yarnpkg.com/rechoir/-/rechoir-0.6.2.tgz#85204b54dba82d5742e28c96756ef43af50e3384"
