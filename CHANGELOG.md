@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-<a name="1.8.0"></a>
+<a name="1.0.0"></a>
 
 # [1.8.0](https://github.com/panalbish/reaptcha/commit/a586eee393cd33bcfee79b266e328e945b5fba51) (2020-04-17)
 
