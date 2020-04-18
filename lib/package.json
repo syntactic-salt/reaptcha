@@ -1,6 +1,6 @@
 {
   "name": "@panalbish/reaptcha-enterprise",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Google reCAPTCHA for React with Enterprise support",
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   },
   "devDependencies": {
     "webpack": "^4.17.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
