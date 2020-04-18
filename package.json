@@ -1,5 +1,6 @@
 {
-  "name": "reaptcha-monorepo",
+  "name": "@panalbish/reaptcha-enterprise-monorepo",
+  "version": "1.0.0",
   "private": true,
   "workspaces": [
     "lib",
@@ -11,7 +12,7 @@
     "lint": "eslint .",
     "test": "ava --verbose 'lib/**/*.test.js'",
     "coverage": "nyc npm test && nyc report --reporter=text-lcov | coveralls",
-    "release": "npm run build && lerna publish --conventional-commits"
+    "release": "npm run build && lerna publish"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
