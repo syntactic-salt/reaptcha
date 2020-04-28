@@ -3,21 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-<a name="1.9.0"></a>
+<a name="1.0.0"></a>
 
-# [1.9.0](http://stash.rewe-digital.com:7999/~bishal.pantha_rewe-digital.com/reaptcha-enterprise/compare/v1.7.2...v1.9.0) (2020-04-17)
-
-### Features
-
-- added support for recaptcha enterprise ([a586eee](http://stash.rewe-digital.com:7999/~bishal.pantha_rewe-digital.com/reaptcha-enterprise/commits/a586eee))
-
-<a name="1.8.0"></a>
-
-# [1.8.0](http://stash.rewe-digital.com:7999/~bishal.pantha_rewe-digital.com/reaptcha-enterprise/compare/v1.7.2...v1.8.0) (2020-04-17)
+# [1.8.0](https://github.com/panalbish/reaptcha/commit/a586eee393cd33bcfee79b266e328e945b5fba51) (2020-04-17)
 
 ### Features
 
-- added support for recaptcha enterprise ([a586eee](http://stash.rewe-digital.com:7999/~bishal.pantha_rewe-digital.com/reaptcha-enterprise/commits/a586eee))
+- added support for recaptcha enterprise
 
 <a name="1.7.2"></a>
 

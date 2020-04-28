@@ -9,7 +9,7 @@
 [![Minified package size](https://img.shields.io/bundlephobia/min/reaptcha.svg)]()
 [![Minified gzipped package size](https://img.shields.io/bundlephobia/minzip/reaptcha.svg)]()
 
-A clean, modern and simple React wrapper for [Google reCAPTCHA](https://developers.google.com/recaptcha/).
+Forked version of [reaptcha](https://github.com/sarneeh/reaptcha) project with additional [reCAPTCHA Enterprise](https://cloud.google.com/recaptcha-enterprise) support. This scoped package might be removed later, if the enterprise support land in reaptcha library.
 
 ## Demo
 
@@ -37,13 +37,13 @@ This is why I've decided to give it a try to create a cleaner approach and this 
 Just install the package with `npm`:
 
 ```
-npm install --save reaptcha
+npm install --save @panalbish/reaptcha-enterprise
 ```
 
 or with `yarn`:
 
 ```
-yarn add reaptcha
+yarn add @panalbish/reaptcha-enterprise
 ```
 
 ## Usage
@@ -64,7 +64,7 @@ Here's a quick example how can you use `Reaptcha` to verify your form submission
 
 ```js
 import React, { Component } from 'react';
-import Reaptcha from 'reaptcha';
+import Reaptcha from '@panalbish/reaptcha-enterprise';
 
 class MyForm extends Component {
   constructor(props) {
@@ -103,7 +103,7 @@ Here's an example:
 
 ```js
 import React, { Fragment, Component } from 'react';
-import Reaptcha from 'reaptcha';
+import Reaptcha from '@panalbish/reaptcha-enterprise';
 
 class MyForm extends Component {
   constructor(props: Props) {
@@ -156,7 +156,7 @@ Additionally, invisible reCAPTCHA can be of course also rendered automatically o
 
 ```js
 import React, { Fragment, Component } from 'react';
-import Reaptcha from 'reaptcha';
+import Reaptcha from '@panalbish/reaptcha-enterprise';
 
 class MyForm extends Component {
   constructor(props: Props) {
