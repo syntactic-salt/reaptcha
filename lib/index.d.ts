@@ -26,6 +26,7 @@ export interface ReaptchaProps {
   isolated?: boolean;
   hl?: string;
   enterprise?: boolean;
+  action?: string;
   children?: (renderProps: RenderProps) => React.ReactNode;
 }
 
